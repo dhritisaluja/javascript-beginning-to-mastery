@@ -1,4 +1,4 @@
-// use const for creating array
+// use const for creating array : 90% developers use const for creating arrays and not let because we don't want to initialize the array again as we'll lose our existing values. 
 
 // heap memory ["apple", "mango"] 0x11
 
