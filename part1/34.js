@@ -1,4 +1,4 @@
-// for in loop in array
+// for in loop in array: use to access indexes of the array. 
 const fruits = ["apple", "mango", "grapes", "fruit4", "fruit5"];
 const fruits2 = [];
 
